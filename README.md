@@ -1,1 +1,1 @@
-# SimpleCRUD_StudentManagement
+This program defines a Student class with fields like studentID, studentName, and studentMark. It uses an ArrayList to store multiple Student objects dynamically. The program allows users to perform the CRUD operations.The program demonstrates basic object-oriented programming (OOP) principles and collection handling using ArrayList.# SimpleCRUD_StudentManagement
